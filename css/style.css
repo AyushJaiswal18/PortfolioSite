@@ -215,7 +215,7 @@ header.sticky .nav-bar {
 .home-container .info h2 {
   font-size: 4em;
   font-weight: 600;
-  line-height: 20px;
+  line-height: 40px;
 }
 
 .home-container .info h3 {
@@ -999,9 +999,8 @@ footer a {
 
   .nav-close-btn {
     position: absolute;
-    background: url("../assets/pic.png") no-repeat;
-    filter: var(--color-filter);
-    background-size: 12px;
+    background: url("../assets/close-btn.png") no-repeat;
+    background-size: 30px;
     background-position: center;
     width: 40px;
     height: 40px;
@@ -1012,9 +1011,8 @@ footer a {
   }
 
   .nav-menu-btn {
-    background: url("../assets/pic.png") no-repeat;
-    filter: var(--color-filter);
-    background-size: 30px;
+    background: url("../assets/list-btn.png") no-repeat;
+    background-size: 35px;
     background-position: center;
     width: 40px;
     height: 40px;
