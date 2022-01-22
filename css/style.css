@@ -1107,7 +1107,7 @@ footer a {
     transform: translateY(-65px);
   }
   .home .home-container {
-    display: grid;
+    display: flex;
   }
 
   .home-container .home-img {
