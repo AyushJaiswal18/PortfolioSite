@@ -498,15 +498,15 @@ header.sticky .nav-bar {
 }
 
 .bar .web:before {
-  width: 40%;
+  width: 90%;
 }
 
 .bar .python:before {
-  width: 100%;
+  width: 95%;
 }
 
 .bar .php:before {
-  width: 50%;
+  width: 80%;
 }
 
 .bar .java:before {
